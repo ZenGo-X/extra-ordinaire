@@ -12,6 +12,9 @@ The seller lists an Inscription it owns for sale by creating a PSBT with the Ins
 * create an `.env` file and provide both:
   * `COOKIE`: Bitcoin core cookie file
   * `ORD_EXPLORER`: Ord explorer url example: https://ordinals.com/
+ 
+* Specify `seller_inscription_id` to sell (main.rs file)
+* `cargo run`
 
 ## Acknowledgements
 
