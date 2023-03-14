@@ -2,6 +2,7 @@
 name = "extra_ordinaire"
 version = "0.1.0"
 edition = "2021"
+keywords = ["bitcoin", "psbt", "inscriptions"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
