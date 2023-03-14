@@ -4,7 +4,7 @@ A simple implementation of Bitcoin inscriptions trading based on PSBT written in
 
 ## Specs
 
-The setup assumes two bitcoin core wallets, one for the buyer called `buyer` and one for the seller called `seller`.
+The setup assumes two bitcoin core wallets, one for the buyer named `buyer` and one for the seller named `ord`.
 
 The seller lists an Inscription it owns for sale by creating a PSBT with the Inscription as an output.
 
