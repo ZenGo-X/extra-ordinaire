@@ -10,7 +10,7 @@ The seller lists an Inscription it owns for sale by creating a PSBT with the Ins
 
 ## Acknowledgements
 
-That implementation is based on [Casey's suggestion](https://github.com/casey/ord/issues/802) and inspired by [OpenOrdex implementation](https://github.com/orenyomtov/openordex)
+This implementation is based on [Casey's suggestion](https://github.com/casey/ord/issues/802) and inspired by [OpenOrdex implementation](https://github.com/orenyomtov/openordex)
 
 ## Disclaimer
 
