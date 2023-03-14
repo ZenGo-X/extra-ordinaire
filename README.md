@@ -5,8 +5,13 @@ A simple implementation of Bitcoin inscriptions trading based on PSBT written in
 ## Specs
 
 The setup assumes two bitcoin core wallets, one for the buyer named `buyer` and one for the seller named `ord`.
-
 The seller lists an Inscription it owns for sale by creating a PSBT with the Inscription as an output.
+
+## Usage
+
+* create an `.env` file and provide both:
+  * `COOKIE`: Bitcoin core cookie file
+  * `ORD_EXPLORER`: Ord explorer url example: https://ordinals.com/
 
 ## Acknowledgements
 
